@@ -10,6 +10,7 @@
 <image width=700 height=500 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_5_1q.png">
   
 二、关键代码
+
 1、
 
 ***MainActivity.java***
