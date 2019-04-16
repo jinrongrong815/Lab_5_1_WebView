@@ -28,7 +28,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void passData(){
-        Intent intent = new Intent(this, WebViewLoadWeb.class);
+       // Intent intent = new Intent(this, WebViewLoadWeb.class);
+        Intent intent = new Intent();
+        intent.setAction("com.example.jr.lab_5_1_webview.START_ACTIVITY");
         intent.putExtra("url",edit_url.getText().toString());
         startActivity(intent);
     }
