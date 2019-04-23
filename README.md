@@ -77,6 +77,6 @@ public class WebViewLoadWeb extends AppCompatActivity {
 
 三、实验结果截图
 
-<image width=350 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_5_1a.jpg">
+<image width=350 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_5_1_anew1.png">
   
-<image width=350 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_5_2a.jpg">
+<image width=350 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_5_1anew2.png">
